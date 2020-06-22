@@ -1,5 +1,5 @@
 body {
-    background: #7A3535;
+    background: rgb(255, 229, 212);
     font: normal 15pt Arial;
     font-family: sans-serif;
 }
@@ -9,7 +9,7 @@ header {
 
 }
 section {
-    background: white;
+    background: rgb(253, 196, 173);
     border-radius: 9px;
     padding: 15px;
     width: 500px;
@@ -17,7 +17,12 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.322);
 }
 footer {
-    color: white;
+    color: rgba(71, 33, 2, 0.938);
     text-align: center;
     font-style: italic
 }
+
+Notes:
+ Defaut colors: rgba(241, 197, 171, 0.973)
+                rgba(71, 33, 2, 0.938)
+                
